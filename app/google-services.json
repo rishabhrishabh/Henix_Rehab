@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "721155018436",
+    "firebase_url": "https://rehab-5f78d.firebaseio.com",
+    "project_id": "rehab-5f78d",
+    "storage_bucket": "rehab-5f78d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721155018436:android:17b670c99c5f237e8d8391",
+        "android_client_info": {
+          "package_name": "com.android.patient_portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721155018436-ql69fgajm5lk5lf8878c9bk9ek22e431.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCysgPn8DDxt4Fp65ZzVvN2RkZD3pWBGF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721155018436-ql69fgajm5lk5lf8878c9bk9ek22e431.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
